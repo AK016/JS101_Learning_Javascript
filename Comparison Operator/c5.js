@@ -1,0 +1,10 @@
+let L1=1;
+let L2=2;
+let B1=2;
+let B2=3;
+let A1=L1*B1;
+let A2=L2*B2;
+let P1=2*(L1+B1);
+let P2=2*(L2+B2);
+console.log(A1>A2);
+console.log(P1>P2);
